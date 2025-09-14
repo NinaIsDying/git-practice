@@ -10,3 +10,4 @@ This is a local change.
 New line of text.
 
 this is a conflict
+this is also a conflict.
