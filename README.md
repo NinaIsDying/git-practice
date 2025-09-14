@@ -7,3 +7,4 @@ This new document is edited.
 This is a local change.
 
 
+New line of text.
